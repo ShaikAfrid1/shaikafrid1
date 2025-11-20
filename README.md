@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m Afrid — a passionate Frontend Developer with expertise in React, JavaScript, SCSS, Tailwind, and Bootstrap. I specialize in building clean, responsive, and user-friendly web apps. Constant learner with a sharp eye for UI/UX details and performance optimization.
+I’m Afrid — a passionate Learner with expertise in React, JavaScript, SCSS, Tailwind, and Bootstrap. I specialize in building clean, responsive, and user-friendly web apps. Constant learner with a sharp eye for UI/UX details and performance optimization.
 
 I don’t just write code — I craft experiences. Let’s create something amazing.
 
